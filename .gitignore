@@ -9,4 +9,6 @@ env/
 /Desafio5/__pycache__
 
 Desafio5/.env
+Desafio5/*.env
 Desafio5/env/
+
